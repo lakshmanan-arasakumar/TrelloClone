@@ -5,10 +5,12 @@
     cursor: pointer;
     position: absolute;
     left: 150px;
-}
-.NewBoardButton{
-  filter: drop-shadow(3px 3px 3px #333);
-   cursor: pointer;
-  position: absolute;
-  top: 100px;
+    appearance: button;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin-top: 5px;
+    display: inline-block;
+    background-color: #eee;
+    border-radius: 4px;
+    color: initial;
 }

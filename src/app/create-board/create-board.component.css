@@ -1,0 +1,16 @@
+div{
+   cursor: pointer;
+  position: absolute;
+  top: 100px;
+  text-decoration: none;
+  color: initial;
+}
+.button{
+  padding: 5px 10px;
+  text-decoration: none;
+  margin-top: 10px;
+  display: inline-block;
+  background-color: #eee;
+  border-radius: 4px;
+  appearance: button;
+}
