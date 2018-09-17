@@ -1,7 +1,7 @@
-import { List } from './list';
+import { BoardList } from './board-list';
 
 export class Board{
-  id: number;
-  name: string;
-  lists: List[];
+  boardId: number;
+  boardName: string;
+  boardLists: BoardList[];
 }
